@@ -1,5 +1,3 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Sagar Parajuli</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
