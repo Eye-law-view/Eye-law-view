@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/ca/a2/4e/caa24ef9fd5581e70ffaa71d0a4d46f6.gif">
+
 <h1 align="center">Hi 👋, I'm Sagar Parajuli</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
