@@ -1,7 +1,6 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">Hi 👋, I'm Sagar Parajuli</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eye-law-view&label=Profile%20views&color=0e75b6&style=flat" alt="eye-law-view" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eye-law-view" alt="eye-law-view" /></a> </p>
